@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MvpDemo</string>
+    <string name="label_submit">Submit</string>
+    <string name="label_enter_password">Enter Password</string>
+    <string name="label_enter_email">Enter Email</string>
+    <string name="label_mvp_demo">Mvp Demo</string>
+</resources>
